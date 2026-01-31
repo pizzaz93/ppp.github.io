@@ -29,7 +29,7 @@ const App: React.FC = () => {
           </h1>
           
           <p className="text-gray-400 text-sm md:text-base leading-relaxed font-light mx-auto max-w-2xl">
-            <span className="gold-text font-medium">Past Present Phuture</span> or PPP is a platform designed to help you understand your career journey and the potential path ahead. 
+            <span className="gold-text font-medium">Past Present Phuture</span> is a platform designed to help you understand your career journey and the potential path ahead. 
             <span className="italic"> Past</span> is a tool to learn about your career theme, 
             <span className="italic"> Present</span> helps you build a personal brand and 
             <span className="italic"> Phuture</span> inspires you with future opportunities.
